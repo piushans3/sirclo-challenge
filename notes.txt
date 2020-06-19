@@ -2,4 +2,10 @@ berikut hasil challenge yang sudah saya kerjakan
 
 mohon maaf bila masih banyak kekurangan di challenge ini
 
+tools yang digunakan : 
+-sublime text 3
+-phpmyadmin
+-browser
+-codeigniter v3
+
 Thank you
